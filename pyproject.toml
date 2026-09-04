@@ -1,0 +1,19 @@
+[project]
+name = "personal-finance-tracker"
+version = "0.1.0"
+description = "ITSM 601 team project: a modular Python app for tracking income, expenses, and financial summaries with Turtle Graphics visualizations."
+requires-python = ">=3.10"
+authors = [
+    { name = "Geeky Green Geckos" }
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
