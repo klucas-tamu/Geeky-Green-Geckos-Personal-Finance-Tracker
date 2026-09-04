@@ -16,8 +16,6 @@ ISTM 601 Python Group Project. This repository contains a modular Python applica
 
 ## Project Layout
 
-## Project Layout
-
 ```
 personal-finance-tracker/
 │
