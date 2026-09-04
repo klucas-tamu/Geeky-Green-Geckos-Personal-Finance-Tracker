@@ -1,8 +1,6 @@
 # Geeky-Green-Geckos-Personal-Finance-Tracker
-ISTM 601 Python Group Project
-# Geeky Green Geckos: Personal Finance Tracker
+ISTM 601 Python Group Project. This repository contains a modular Python application for recording income and expenses, generating financial reports, and displaying an expenses-by-category chart with Turtle Graphics.
 
-ITSM 601 team project. This repository contains a modular Python application for recording income and expenses, generating financial reports, and displaying an expenses-by-category chart with Turtle Graphics.
 
 ## Features
 
@@ -18,30 +16,34 @@ ITSM 601 team project. This repository contains a modular Python application for
 
 ## Project Layout
 
+## Project Layout
+
+```
 personal-finance-tracker/
 │
 ├── data/
-│ ├── transactions.csv
-│ └── categories.csv
+│   ├── transactions.csv
+│   └── categories.csv
 │
 ├── docs/
-│ ├── Phase-1-Project-Proposal.pdf
-│ ├── Phase-2-Project-Report.pdf
-│ ├── Phase-3-Project-Report.pdf
-│ ├── Phase-4-Project-Report.pdf
-│ └── architecture_diagram.png
+│   ├── Phase-1-Project-Proposal.pdf
+│   ├── Phase-2-Project-Report.pdf
+│   ├── Phase-3-Project-Report.pdf
+│   ├── Phase-4-Project-Report.pdf
+│   └── architecture_diagram.png
 │
 ├── images/
-│ └── bar-chart.png
+│   └── bar-chart.png
 │
 ├── src/
-│ ├── main.py
-│ ├── transactions.py
-│ ├── summaries.py
-│ ├── visualizer.py
-│ └── utils.py
+│   ├── main.py
+│   ├── transactions.py
+│   ├── summaries.py
+│   ├── visualizer.py
+│   └── utils.py
 │
 └── README.md
+```
 
 
 ## Module Responsibilities
